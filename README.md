@@ -1,2 +1,4 @@
 # Android-Calculator
-Simple calculator for mobile devices using Java
+
+IDE usada: Android Studio ( Version 2.0, January 2004).
+Dispositivo utilizado para visualização: Medium Phone API 35.
